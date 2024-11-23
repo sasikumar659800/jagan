@@ -1,3 +1,3 @@
 function SetDate() {
-	document.getElementById("jagan").play();
+	document.getElementById("balasir").play();
 }
